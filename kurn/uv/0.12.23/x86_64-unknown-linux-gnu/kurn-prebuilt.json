@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "9167d72b3319674b6303c4cbe071854bba13ebdf3d76b1a7cbdc175471fb66d6",
+  "consumer": "kurn",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.APACHE"
+  ],
+  "package": "uv",
+  "target": "x86_64-unknown-linux-gnu",
+  "version": "0.12.23"
+}

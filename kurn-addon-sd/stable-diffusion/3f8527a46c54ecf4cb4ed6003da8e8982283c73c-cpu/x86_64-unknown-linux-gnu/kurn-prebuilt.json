@@ -1,0 +1,20 @@
+{
+  "consumer": "kurn-addon-sd",
+  "cuda": false,
+  "cuda_version": null,
+  "ggml_revision": "89c4413f5da6fb20cc796f16033d37f129be81fd",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.darts-clone",
+    "LICENSE.ggml",
+    "LICENSE.json",
+    "LICENSE.miniz",
+    "LICENSE.oniguruma",
+    "LICENSE.utf8proc",
+    "LICENSE.zip"
+  ],
+  "package": "stable-diffusion",
+  "source_revision": "3f8527a46c54ecf4cb4ed6003da8e8982283c73c",
+  "target": "x86_64-unknown-linux-gnu",
+  "version": "3f8527a46c54ecf4cb4ed6003da8e8982283c73c-cpu"
+}

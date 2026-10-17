@@ -1,0 +1,27 @@
+{
+  "consumer": "kurn",
+  "features": [
+    "avcodec",
+    "avdevice",
+    "avfilter",
+    "avformat",
+    "swresample",
+    "swscale",
+    "vpx",
+    "ffmpeg",
+    "ffprobe",
+    "nvcodec"
+  ],
+  "ffmpeg_release": "9.0",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.ffnvcodec",
+    "LICENSE.libvpx"
+  ],
+  "package": "ffmpeg",
+  "port_revision": "47ea963da8cf87c3637a85cf0c8a84320d0d33a2",
+  "source_sha256": "09bb2256ab0174ed1177600067ccd9550ea4abde15df13b2d6cef73b0fdcc2a4",
+  "target": "x86_64-unknown-linux-gnu",
+  "vcpkg_revision": "9e593bb18ea69cc5095e012465dcd675a822ed0d",
+  "version": "9.0"
+}
