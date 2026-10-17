@@ -3,6 +3,7 @@
   "cuda": false,
   "cuda_version": null,
   "ggml_revision": "89c4413f5da6fb20cc796f16033d37f129be81fd",
+  "glibc_floor": "2.34",
   "license_files": [
     "LICENSE",
     "LICENSE.darts-clone",

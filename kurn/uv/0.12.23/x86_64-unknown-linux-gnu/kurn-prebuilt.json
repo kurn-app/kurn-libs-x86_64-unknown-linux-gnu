@@ -1,6 +1,7 @@
 {
   "archive_sha256": "9167d72b3319674b6303c4cbe071854bba13ebdf3d76b1a7cbdc175471fb66d6",
   "consumer": "kurn",
+  "glibc_floor": "2.17",
   "license_files": [
     "LICENSE",
     "LICENSE.APACHE"
