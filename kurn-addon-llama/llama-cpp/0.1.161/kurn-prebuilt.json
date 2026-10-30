@@ -1,0 +1,14 @@
+{
+  "consumer": "kurn-addon-llama",
+  "cuda": true,
+  "cuda_version": "13.4.2",
+  "glibc_floor": "2.34",
+  "license_files": [
+    "LICENSE"
+  ],
+  "package": "llama-cpp",
+  "source_revision": "d81235049384534c167caea52b85a694f6103d14",
+  "target": "x86_64-unknown-linux-gnu",
+  "version": "0.1.161",
+  "wrapper_revision": "06d69ff7c96dacd5fd732479540de0f2c75eb560"
+}
