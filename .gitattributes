@@ -2,4 +2,5 @@
 /kurn-addon-sd/** filter=lfs diff=lfs merge=lfs -text
 /kurn-addon-llama/** filter=lfs diff=lfs merge=lfs -text
 **/LICENSE* -filter -diff -merge -text
-**/*.json -filter -diff -merge text
+**/*.json -filter diff -merge text
+**/*.cmake -filter diff -merge text
