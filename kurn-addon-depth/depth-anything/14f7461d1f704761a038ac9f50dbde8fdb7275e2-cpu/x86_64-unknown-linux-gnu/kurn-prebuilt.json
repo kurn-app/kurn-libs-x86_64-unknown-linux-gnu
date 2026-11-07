@@ -1,0 +1,15 @@
+{
+  "consumer": "kurn-addon-depth",
+  "cuda": false,
+  "cuda_version": null,
+  "ggml_revision": "eced84c86f8b012c752c016f7fe789adea168e1e",
+  "glibc_floor": "2.34",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.ggml"
+  ],
+  "package": "depth-anything",
+  "source_revision": "14f7461d1f704761a038ac9f50dbde8fdb7275e2",
+  "target": "x86_64-unknown-linux-gnu",
+  "version": "14f7461d1f704761a038ac9f50dbde8fdb7275e2-cpu"
+}
